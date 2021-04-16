@@ -1,4 +1,4 @@
-### How install Jenkins on VM with Linux (jenkins manual install)
+### How to install Jenkins on VM with Linux (jenkins manual install)
 
 *Jenkins — программная система с открытым исходным кодом на Java, предназначенная для обеспечения процесса непрерывной интеграции программного обеспечения.*  
   
