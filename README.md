@@ -1,2 +1,2 @@
-# jenkins-manual-install
-How install Jenkins on VM with Linux
+### How install Jenkins on VM with Linux (jenkins manual install)
+
